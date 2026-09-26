@@ -11,3 +11,6 @@ https://drive.google.com/file/d/14A1dMX2doTbR2_BAKS_FFYdzWLjhVBDU/view?usp=drive
 
 ## Phasewise documents
 https://drive.google.com/drive/folders/1x6JmKWK-G61KYvC6C0Xc_1kVOuhmux_l?usp=sharing
+
+## Doumentation
+https://docs.google.com/document/d/1VEsREa1N2tRbYqcn7-sk0x6mCDWai-Ed/edit?usp=sharing&ouid=103812841783293553121&rtpof=true&sd=true
