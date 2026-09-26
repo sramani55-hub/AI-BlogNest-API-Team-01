@@ -9,3 +9,5 @@ https://drive.google.com/file/d/1K6b22AJUW_lzwF60mNJgyBKXIziVuNOx/view?usp=shari
 ## Code
 https://drive.google.com/file/d/14A1dMX2doTbR2_BAKS_FFYdzWLjhVBDU/view?usp=drive_link
 
+## Phasewise documents
+https://drive.google.com/drive/folders/1x6JmKWK-G61KYvC6C0Xc_1kVOuhmux_l?usp=sharing
